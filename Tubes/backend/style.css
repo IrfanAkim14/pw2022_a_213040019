@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Mochiy+Pop+One&display=swap");
+html {
+   
+    background-size: cover;
+    background-position: center;
+}
+body {
+    margin: 100px;
+    margin-left: 500px;
+    font-size: 20px;
+    
+}
+h1 {
+    color: black    ;
+    font-family: 'poppins';
+}
+
+.container{
+    background: none;
+}
